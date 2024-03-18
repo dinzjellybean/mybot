@@ -1,0 +1,125 @@
+HumanSays:,RobotSays:
+What time is it?,getTIME
+Time?,getTIME
+Got the time?,getTIME
+When is it?,getTIME
+What day is it?,getDATE
+What is the date?,getDATE
+Do you know what time it is?,getTIME
+Do you have the time,getTIME
+IDKnull,I'm not sure about that.
+IDKnull,I'll need to take some time to think on that.
+IDKnull,Can you try rephrasing that please?
+IDKnull,I don't think I know that.
+IDKnull,Is there a different way you can ask that?
+IDKnull,I don't have a response for that.
+IDKnull,I will have to give that some thought.
+IDKnull,I don't really know what you are asking.
+IDKnull,There are some things I just don't know about yet.
+IDKnull,I'm not an expert on that.
+IDKnull,"I'm sorry, I could not tell you."
+Nothing,What?
+Nothing,I think you hit the wrong key...
+Nothing,What did you want to ask?
+Nothing,Let's talk about something.
+Nothing,One more time?
+Who are you?,I am Hilman the ChatBot.
+Who are you?,I am a Python powered ChatBot.
+Who are you?,"I am Hilman, a ChatBot running on Python and a dash of artificial intelligence."
+Hello,Hello there!
+Hello,"Hey there, nice to see you!"
+Hello,"Hi, I am Hilman!"
+Hi,Oh hey!
+Greetings,What's up?
+Hey,Hello!
+What's up?,Heyya!
+Who are you?,I am a Chatbot.
+What is your name?,My name is Hilman.
+Clearing fees,"There are no additional fees for using UCAS Clearing. However, standard application fees may apply when applying to universities through UCAS."
+List all the universities offering my desired course during Clearing,"Not at the moment, but you can try searching for your preferred course through this link - <a href=""https://digital.ucas.com/search""> UCAS Course Search</a> - it will provide you with a comprehensive list of universities offering those courses through Clearing."
+Stay updated on the current situation for universities and courses,"You can stay updated on the current situation for universities and courses by visiting the UCAS News and Insights page at <a href="" https://www.ucas.com/news-and-insights"">UCAS News and Insights</a>. This page provides valuable information and updates regarding universities and courses, helping you make informed decisions about your academic journey."
+Find upcoming UCAS events?,"You can find upcoming UCAS events by visiting this link: <a href=""User
+https://www.ucas.com/ucas-events""> UCAS Event</a>. It provides information about various events organized by UCAS."
+Where details about UCAS events?,"For details about UCAS events, you can visit the UCAS Events page at <a href=""User
+https://www.ucas.com/ucas-events""> UCAS Event</a>. It offers information about upcoming events and how to participate."
+I'm interested in attending UCAS events. How do I find them?,"To find UCAS events, simply follow this link: <a href=""User
+https://www.ucas.com/ucas-events""> UCAS Event</a>. You'll discover a list of upcoming events and how to register."
+Schedule of UCAS events?,"You can view the schedule of UCAS events by visiting the UCAS Events page at <a href=""User
+https://www.ucas.com/ucas-events""> UCAS Events</a>. It lists all upcoming events and how to get involved."
+What is UCAS Clearing?,UCAS Clearing is a process that allows students to find and apply for university courses that still have vacancies after the main application cycle has ended. It's an opportunity for students who haven't secured a place to explore alternative options.
+When does Clearing take place?,Clearing typically begins in July and continues through to September. It's most active immediately after A-level results day.
+Who can use Clearing?,"Clearing is available to students who have not received any offers, declined their offers, did not meet the conditions of their offers, or applied after June 30th."
+What should I do if I find myself in Clearing?,"If you find yourself in Clearing, you can search for courses with vacancies on the UCAS website, contact universities directly to inquire about available places, and make a decision on which course to apply for."
+How can I prepare for Clearing?,"To prepare for Clearing, research courses and universities that interest you, have your UCAS Personal ID and Clearing number ready, prepare a list of questions to ask universities, and be prepared to act quickly if you receive an offer."
+What happens after Clearing?,"After Clearing, you may receive offers from universities, and you'll need to decide which offer to accept. Once you've accepted an offer, you'll be able to finalize your enrollment and begin preparing for university life."
+Can I change my mind after accepting an offer through Clearing?,"In most cases, yes, you can change your mind after accepting an offer through Clearing. However, it's important to check the specific policies of the university you've accepted an offer from."
+What should I do if I want to change my mind after accepting a Clearing offer?,"If you decide to change your mind after accepting a Clearing offer, you should contact the university as soon as possible to discuss your options. They may allow you to withdraw your acceptance and consider other offers."
+Are there any deadlines for changing my mind after accepting a Clearing offer?,Deadlines for changing your mind after accepting a Clearing offer vary depending on the university and the circumstances. It's best to check with the university directly to understand their policies and any applicable deadlines.
+Will there be any consequences for changing my mind after accepting a Clearing offer?,"There may be consequences for changing your mind after accepting a Clearing offer, such as losing your place or being subject to administrative fees. It's important to consider the implications before making a decision."
+How can I contact the university to discuss changing my mind about a Clearing offer?,You can typically contact the university admissions office by phone or email to discuss changing your mind about a Clearing offer. Be sure to have your UCAS Personal ID and Clearing number ready when contacting them.
+Can the chatbot connect me to universities offering Clearing positions?,"While I can't directly connect you to universities offering Clearing positions, I can certainly assist you in finding relevant information. You can use the <a href=""https://digital.ucas.com/search"">UCAS Course Search</a> tool to explore available courses and universities offering Clearing positions. "
+How are you?,"I'm fine, thank you!"
+What are the deadlines for UCAS Clearing applications?,"The deadlines for UCAS Clearing applications vary depending on the university and the course you're interested in. It's essential to check the specific deadlines for each institution you're considering. You can find the most up-to-date information on the <a href=""https://digital.ucas.com/search"">UCAS Course Search</a> or directly from the universities you're interested in."
+Can I still apply for UCAS Clearing after the deadline?,"While some universities may accept applications after the official UCAS Clearing deadline, it's crucial to check with each institution individually. Some courses may still have vacancies available, so it's worth exploring your options even if you miss the initial deadline. However, it's generally advisable to apply as early as possible to maximize your chances of securing a place."
+Deadlines for Clearing applications for international students,Clearing deadlines for international students may vary depending on the university and the specific course. International applicants are encouraged to consult the admissions information provided by the universities they're interested in or reach out to their international admissions office for guidance on application deadlines.
+Missed the Clearing deadline for a particular university," If you're unsure whether you've missed the Clearing deadline for a specific university, it's best to check the university's official website or contact their admissions office directly. They'll be able to provide you with the most accurate and up-to-date information regarding application deadlines and whether late applications are still being considered."
+General entry requirements for undergraduate courses on UCAS,"The general entry requirements for undergraduate courses on UCAS can vary depending on the university and the specific course. Typically, universities consider factors such as academic qualifications, subjects studied, predicted grades, personal statements, and references. It's essential to check the specific entry requirements for each course you're interested in on the UCAS website or directly from the universities' websites."
+What qualifications do I need to apply for undergraduate courses through UCAS?,"To apply for undergraduate courses through UCAS, you typically need to have completed certain qualifications, such as A-levels, BTECs, International Baccalaureate (IB), or equivalent qualifications. It's important to check the specific entry requirements for each course you're interested in, as they may vary depending on the subject and university."
+Are there any specific subject requirements for undergraduate courses?,"To apply for undergraduate courses through UCAS, you typically need to have completed certain qualifications, such as A-levels, BTECs, International Baccalaureate (IB), or equivalent qualifications. It's important to check the specific entry requirements for each course you're interested in, as they may vary depending on the subject and university."
+How important are predicted grades for undergraduate course applications?,"Predicted grades play a crucial role in undergraduate course applications through UCAS. Universities often consider predicted grades, along with other factors such as academic qualifications, personal statements, and references, when making admissions decisions. It's essential to aim for realistic and achievable predicted grades and to provide accurate information on your UCAS application."
+Where can I find more information about UCAS undergraduate entry requirements?,"You can find more detailed information about UCAS undergraduate entry requirements on the UCAS website. They provide comprehensive guidance on entry requirements for various courses and qualifications. Additionally, individual universities' websites may also offer specific details about their entry requirements and selection criteria for undergraduate courses."
+Can you help me?,"Yes, how may I help?"
+Help me,How may I help you?
+Translate,Sure! Just send it in this format: Translate 'X' to 'Y' with X being the phrase you want it translated and Y the language you desire
+Can you speak French?,I know some basics.
+Can you converse in a different language?,I can do bonjour!
+What can you do?,I can help you with answering queries regarding UCAS Clearing.
+What else can you do?,Maybe learn something from you as well...
+Guide on application process,"Of course! Which course, and which uni are you specifically looking for?"
+Documents for UCAS Clearing,"You'll typically need your exam results, personal statement, and contact details ready when applying through UCAS Clearing."
+How do I apply through UCAS Clearing,"To apply through UCAS Clearing, you'll need to search for available courses on the UCAS website, contact universities directly, and submit applications through UCAS Track."
+When UCAS Clearing start,"UCAS Clearing typically starts in July after A-level results are released."
+What is UCAS Clearing,UCAS Clearing is a process that allows students who haven't secured a place at university to find available courses.
+apply for accommodation through UCAS Clearing,"Yes, some universities may also offer accommodation options for students applying through Clearing, but availability might be limited."
+How long does UCAS Clearing last,"UCAS Clearing usually lasts until mid-September, but it's best to apply early as spaces can fill up quickly."
+Apply through UCAS Clearing if I haven't met the entry requirements,"Yes, some universities might accept lower grades during Clearing, but it depends on the course and the institution's policies."
+"Contact for University of York, BSc Economics","To contact the University of York for a position in Economics through Clearing, visit <a href=""
+https://www.york.ac.uk/study/undergraduate/clearing/"">UoY Clearing contact page</a> or call their dedicated Clearing hotline at 01904 324000."
+"Contact for University of York, Computer Science","To contact the University of York for a position in Computer Science through Clearing, visit <a href=""
+https://www.york.ac.uk/study/undergraduate/clearing/"">UoY Clearing contact page</a> or call their dedicated Clearing hotline at 01904 324000."
+"Contact for University of York, Electrical Electronic Engineering","To contact the University of York for a position in Computer Science through Clearing, visit <a href=""https://www.york.ac.uk/study/undergraduate/clearing/"">UoY Clearing contact page</a> or call their dedicated Clearing hotline at 01904 324000."
+"Contact for University of York, Social and Political Science","To contact the University of York for a position in Social and Political Science through Clearing, visit <a href=""https://www.york.ac.uk/study/undergraduate/clearing/"">UoY Clearing contact page</a> or call their dedicated Clearing hotline at 01904 324000."
+"Contact for University of York, MEng Chemical Engineering","To contact the University of York for a position in MEng Chemical Engineering through Clearing, visit <a href=""https://www.york.ac.uk/study/undergraduate/clearing/"">UoY Clearing contact page</a> or call their dedicated Clearing hotline at 01904 324000."
+"Contact for University of York, BSc Mathematics with Actuarial Science ","To contact the University of York for a position in BSc Mathematics with Actuarial Science  through Clearing, visit <a href=""https://www.york.ac.uk/study/undergraduate/clearing/"">UoY Clearing contact page</a> or call their dedicated Clearing hotline at 01904 324000."
+"Contact for University of York, MEng Mechanical Engineering","To contact the University of York for a position in MEng Mechanical Engineering through Clearing, visit <a href=""https://www.york.ac.uk/study/undergraduate/clearing/"">UoY Clearing contact page</a> or call their dedicated Clearing hotline at 01904 324000."
+"Contact for University of York, BSc Actuarial Science","To contact the University of York for a position in BSc Actuarial Science through Clearing, visit <a href=""https://www.york.ac.uk/study/undergraduate/clearing/"">UoY Clearing contact page</a> or call their dedicated Clearing hotline at 01904 324000."
+"Contact for University of York, BSc Accounting and Finance ","To contact the University of York for a position in BSc Accounting and Finance through Clearing, visit <a href=""https://www.york.ac.uk/study/undergraduate/clearing/"">UoY Clearing contact page</a> or call their dedicated Clearing hotline at 01904 324000."
+"Contact for University of Lancaster, BSc Economics","To contact the University of Lancaster for a position in Economics through Clearing, visit <a href=""https://www.lancaster.ac.uk/digital-ambassadors/applying-for-clearing/"">Clearing contact page</a> or call their dedicated Clearing hotline at 0800 298 9542."
+"Contact for University of Lancaster, Computer Science","To contact the University of Lancaster for a position in Computer Science through Clearing, visit <a href=""https://www.lancaster.ac.uk/digital-ambassadors/applying-for-clearing/"">Clearing contact page</a> or call their dedicated Clearing hotline at 0800 298 9542."
+"Contact for University of Lancaster, Electrical Electronic Engineering","To contact the University of Lancaster for a position in Electrical Electronic Engineering through Clearing, visit <a href=""https://www.lancaster.ac.uk/digital-ambassadors/applying-for-clearing/"">Clearing contact page</a> or call their dedicated Clearing hotline at 0800 298 9542."
+"Contact for University of Lancaster, Social and Political Science","To contact the University of Lancaster for a position in Social and Political Science through Clearing, visit <a href=""https://www.lancaster.ac.uk/digital-ambassadors/applying-for-clearing/"">Clearing contact page</a> or call their dedicated Clearing hotline at 0800 298 9542."
+"Contact for University of Lancaster, MEng Chemical Engineering","To contact the University of Lancaster for a position in MEng Chemical Engineering through Clearing, visit <a href=""https://www.lancaster.ac.uk/digital-ambassadors/applying-for-clearing/"">Clearing contact page</a> or call their dedicated Clearing hotline at 0800 298 9542."
+"Contact for University of Lancaster, BSc Mathematics with Actuarial Science ","To contact the University of Lancaster for a position in BSc Mathematics with Actuarial Science through Clearing, visit <a href=""https://www.lancaster.ac.uk/digital-ambassadors/applying-for-clearing/"">Clearing contact page</a> or call their dedicated Clearing hotline at 0800 298 9542."
+"Contact for University of Lancaster, MEng Mechanical Engineering","To contact the University of Lancaster for a position in MEng Mechanical Engineering through Clearing, visit <a href=""https://www.lancaster.ac.uk/digital-ambassadors/applying-for-clearing/"">Clearing contact page</a> or call their dedicated Clearing hotline at 0800 298 9542."
+"Contact for University of Lancaster, BSc Actuarial Science","To contact the University of Lancaster for a position in BSc Actuarial Science through Clearing, visit <a href=""https://www.lancaster.ac.uk/digital-ambassadors/applying-for-clearing/"">Clearing contact page</a> or call their dedicated Clearing hotline at 0800 298 9542."
+"Contact for University of Lancaster, BSc Accounting and Finance ","To contact the University of Lancaster for a position in BSc Accounting and Finance through Clearing, visit <a href=""https://www.lancaster.ac.uk/digital-ambassadors/applying-for-clearing/"">Clearing contact page</a> or call their dedicated Clearing hotline at 0800 298 9542."
+"Contact for University of Sheffield, BSc Economics","To contact the University of Sheffield for a position in Economics through Clearing, visit <a href=""https://www.sheffield.ac.uk/clearing"">Clearing contact page</a> or call their dedicated Clearing hotline at (0)114 212 9900."
+"Contact for University of Sheffield, Computer Science","To contact the University of Sheffield for a position in Computer Science through Clearing, visit <a href=""https://www.sheffield.ac.uk/clearing"">Clearing contact page</a> or call their dedicated Clearing hotline at (0)114 212 9900."
+"Contact for University of Sheffield, Electrical Electronic Engineering","To contact the University of Sheffield for a position in Electrical Electronic Engineering through Clearing, visit <a href=""https://www.sheffield.ac.uk/clearing"">Clearing contact page</a> or call their dedicated Clearing hotline at (0)114 212 9900."
+"Contact for University of Sheffield, Social and Political Science","To contact the University of Sheffield for a position in Social and Political Science through Clearing, visit <a href=""https://www.sheffield.ac.uk/clearing"">Clearing contact page</a> or call their dedicated Clearing hotline at (0)114 212 9900."
+"Contact for University of Sheffield, MEng Chemical Engineering","To contact the University of Sheffield for a position in MEng Chemical Engineering through Clearing, visit <a href=""https://www.sheffield.ac.uk/clearing"">Clearing contact page</a> or call their dedicated Clearing hotline at (0)114 212 9900."
+"Contact for University of Sheffield, BSc Mathematics with Actuarial Science ","To contact the University of Sheffield for a position in BSc Mathematics with Actuarial Science through Clearing, visit <a href=""https://www.sheffield.ac.uk/clearing"">Clearing contact page</a> or call their dedicated Clearing hotline at (0)114 212 9900."
+"Contact for University of Sheffield, MEng Mechanical Engineering","To contact the University of Sheffield for a position in MEng Mechanical Engineering through Clearing, visit <a href=""https://www.sheffield.ac.uk/clearing"">Clearing contact page</a> or call their dedicated Clearing hotline at (0)114 212 9900."
+"Contact for University of Sheffield, BSc Actuarial Science","To contact the University of Sheffield for a position in BSc Actuarial Science through Clearing, visit <a href=""https://www.sheffield.ac.uk/clearing"">Clearing contact page</a> or call their dedicated Clearing hotline at (0)114 212 9900."
+"Contact for University of Sheffield, BSc Accounting and Finance ","To contact the University of Sheffield for a position in BSc Accounting and Finance through Clearing, visit <a href=""https://www.sheffield.ac.uk/clearing"">Clearing contact page</a> or call their dedicated Clearing hotline at (0)114 212 9900."
+What courses available University of York?,"At the moment, the courses available at the University of York are BSc Economics and BEng Computer Science."
+What courses available University of Sheffield?,"At the moment, the courses available at the University of Sheffield are MEng Electrical Engineering and BEng Computer Science."
+What courses available University of Southampton?,"At the moment, the courses available at the University of Southampton are BSc Accounting and Finance and BEng Computer Science."
+What courses available University of Lancaster?,"At the moment, the courses available at the University of York are BSc Economics and BEng Computer Science."
+What courses available Queen Mary University of London (QMUL)?,"At the moment, the courses available at the University of York are BSc Economics and BEng Computer Science."
+Thank you,No problem!
+Thanks,No worries!
+Okay,Is there anything else that I can help you with?
+Ok,Is there anything else that I can help you with?
+Alright,Is there anything else that I can help you with?
+Bye,"See you soon, goodbye!"
